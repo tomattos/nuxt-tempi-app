@@ -1,0 +1,31 @@
+@import "variables";
+@import "base";
+@import "utils";
+
+.v-carousel {
+  .v-btn {
+    .mdi-circle::before {
+      color: #546E7A;
+    }
+  }
+
+  .v-btn--active {
+    .mdi-circle::before {
+      color: #fff;
+    }
+
+    &.theme--dark.v-btn.v-btn--icon {
+      color: rgba(0, 0, 0, 0.6);
+    }
+  }
+}
+
+.v-carousel__controls {
+  height: 100px !important;
+}
+
+@media (min-width: 1904px) {
+  .container {
+    max-width: 1280px !important;
+  }
+}

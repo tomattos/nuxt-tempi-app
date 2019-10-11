@@ -1,0 +1,83 @@
+{
+  "home": {
+    "title": "Deine Webseite für Jobs",
+    "slider1": [
+      {
+        "name": "Markus H.",
+        "position": "Brandschutz Consulting",
+        "description": "Tempi ermöglicht uns eine schnelle und einfache Abwicklung auf der Suche nach neuen Mitarbeiter."
+      },
+      {
+        "name": "Gianluca F.",
+        "position": " Arbeitnehmer",
+        "description": "Einen neuen Job auf Tempi zu finden war für mich sehr einfach."
+      },
+      {
+        "name": "Robert Mosser-Waller",
+        "position": "Gesamtschulleitung Pestalozzi Schulen",
+        "description": "Dank Tempi können wir schnell und gezielt Mitarbeiter akquirieren."
+      }
+    ],
+    "registrationForm": {
+      "title": "Ich möchte mich jetzt kostenlos registrieren",
+      "description": "Registrieren Sie sich mit Ihrem Social Media Konto an.",
+      "googleButton": "mit google registrieren",
+      "facebookButton": "mit fACEBOOK registrieren",
+      "underButtonText": "oder registrieren Sie sich mit Ihrer E-Mail-Adresse an.",
+      "nameLabel": "Vorname",
+      "lastNameLabel": "Familienname",
+      "emailLabel": "Private E-Mail-Adresse",
+      "smallDescription": "Sie erklären sich mit der Nutzervereinbarung, der Datenschutzrichtlinie und der Cookie-Richtlinie von TEMPI einverstanden.",
+      "submitButton": "Kostenlos Registrieren",
+      "forgotPassword": "überspringen"
+    },
+    "jobs": [
+      {
+        "position": "Crewmitarbeiter/IN",
+        "place": "McDonald's",
+        "address": "8105 Regensdorf"
+      },
+      {
+        "position": "Senior Accountant",
+        "place": "LIPO Einrichtungsmärkte AG",
+        "address": "4133 Pratteln"
+      },
+      {
+        "position": "Hauswart (m/w)",
+        "place": "ISS Facility Services AG",
+        "address": "4126 Bettingen"
+      }
+    ],
+    "cardMore": "anschauen & bewerben",
+    "more": "mehr Jobs",
+    "cards": [
+      {
+        "name": "Schritt 1",
+        "description": "Erstellen Sie Ihr Profil"
+      },
+      {
+        "name": "Schritt 2",
+        "description": "Lassen Sie sich finden oder suche den passenden Job"
+      },
+      {
+        "name": "Schritt 3",
+        "description": "Bewerben Sie sich mit einem Klick"
+      }
+    ],
+    "footer": {
+      "cols": [
+        {
+          "title": "Social Media"
+        },
+        {
+          "title": "Unternehmen",
+          "menu": ["jobs", "blog", "Investor", "Kontaktiere uns"]
+        },
+        {
+          "title": "Legal",
+          "menu": ["Cookie-Richtlinie", "Urheberrechtsrichtlinie", "Datenschutzrichtlinie"]
+        }
+      ]
+    }
+  }
+}
